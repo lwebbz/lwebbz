@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m Lawrence aka @lwebbz
+- 👋 Hello there, I’m Lawrence aka @lwebbz, Welcome to my GitHub page!
 
 <!---
 - 👀 I’m interested in blockchain
